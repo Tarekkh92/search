@@ -10,7 +10,7 @@ border-bottom: 1px solid gray;
 }
 
 .searchPage__header img{
-    height: 30px;
+    height: 100px;
     margin: 20px;
     margin-right: 50px;
 }
@@ -45,7 +45,7 @@ border-bottom: 1px solid gray;
 
 .searchPage .search__input{
     /* margin-top: 0px; */
-    margin: 0px 0px;
+    margin: 50px 0px;
 }
 
 .searchPage__searchbar {
