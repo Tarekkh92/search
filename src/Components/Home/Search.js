@@ -1,5 +1,5 @@
 import React, { useState, } from 'react'
-import { IoMic, IoSearch } from 'react-icons/io5'
+import {  IoSearch } from 'react-icons/io5'
 import './Search.css'
 import { useNavigate } from 'react-router-dom';
 import { useStateValue } from '../StateProvider';

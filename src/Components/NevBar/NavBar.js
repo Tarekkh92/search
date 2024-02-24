@@ -1,6 +1,5 @@
 import React from 'react'
-import { IoApps } from 'react-icons/io5'
-import { RxAvatar } from 'react-icons/rx'
+
 import './NavBar.css'
 
 function NavBar() {
